@@ -1,0 +1,19 @@
+name: datascience
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - pip
+  - requests
+  - tqdm
+  - xlrd
+  - openpyxl
+  - pip:
+    - nbdev==1.1.23
+    - py7zr
+    - gdown
+    - jupyterlab
+    - pandas

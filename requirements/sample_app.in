@@ -1,0 +1,4 @@
+Flask
+Flask-FomanticUI
+Flask-SQLAlchemy
+mysql-connector-python

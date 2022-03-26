@@ -1,0 +1,6 @@
+ipykernel
+ipython
+nbsphinx
+pandas
+Sphinx==4.3.0
+sphinx-rtd-theme
