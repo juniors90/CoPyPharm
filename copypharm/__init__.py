@@ -4,7 +4,7 @@
 # This file is part of the CoPyPharm Project
 #     https://github.com/juniors90/CoPyPharm.
 #
-# Copyright (c) 2021. Ferreira Juan David
+# Copyright (c) 2022. Ferreira Juan David
 # License: MIT
 #   Full Text: https://github.com/pyCellID/CoPyPharm/blob/main/LICENSE
 
@@ -15,6 +15,7 @@
 
 """
 CoPyPharm.
+
 An extension that registers all pharmacies in Córdoba - Argentina.
 """
 
