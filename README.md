@@ -2,7 +2,7 @@ CoPyPharm (Building)
 ====================
 
 [![Build status](https://github.com/juniors90/CoPyPharm/actions/workflows/CI.yml/badge.svg)](https://github.com/juniors90/CoPyPharm/actions)
-[![codecov](https://codecov.io/gh/juniors90/CoPyPharm/branch/main/graph/badge.svg?token=YNCV9C9GIG)](https://codecov.io/gh/juniors90/CoPyPharm)
+[![codecov](https://codecov.io/gh/juniors90/CoPyPharm/branch/main/graph/badge.svg?token=3UJWZMENVT)](https://codecov.io/gh/juniors90/CoPyPharm)
 ![docstr-cov](https://img.shields.io/endpoint?url=https://jsonbin.org/juniors90/CoPyPharm/badges/docstr-cov)
 ![PyPI](https://img.shields.io/pypi/v/CoPyPharm?logoColor=green)
 [![Documentation Status](https://readthedocs.org/projects/CoPyPharm/badge/?version=latest)](https://CoPyPharm.readthedocs.io/en/latest/?badge=latest)
